@@ -1,5 +1,5 @@
 # Street Wars: Empire
-Street Wars Empire is my modified version of Streetwars Online 2 Version 1.00 by Wuzzbent. I added many new things and improved on others.
+Street Wars: Empire is my modified version of Streetwars Online 2 Version 1.00 by Wuzzbent. I added many new things and improved on others.
 
 Back in the early 2000s Wuzzbent was no longer able to host the server for the game and he released the source code for all to use and share.
 
