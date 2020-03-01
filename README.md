@@ -1,7 +1,5 @@
 # Street Wars: Empire
-Street Wars: Empire is my modified version of Streetwars Online 2 Version 1.00 by Wuzzbent. The Original Source Code can be found here:
-
-https://github.com/sudonpm/Streetwars-Online-2-Source-Code
+Street Wars: Empire is my modified version of Streetwars Online 2 Version 1.00 by Wuzzbent. 
 
 I added many new things and improved on others.
 
@@ -12,3 +10,7 @@ I got Visual Basics 6 and started modifiying it and adding so much more. It grew
 Sharing this is my way of remembering where things started and also in hopes of finding some of the old players and members of the community as well.
 
 - sudonpm aka Severe/Dream
+
+The Original Source Code can be found here:
+
+https://github.com/sudonpm/Streetwars-Online-2-Source-Code
